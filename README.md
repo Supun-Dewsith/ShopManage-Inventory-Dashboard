@@ -15,5 +15,3 @@ Open `index.html` in your browser. No additional setup is required.
 ![Dashboard Screenshot](assets/screenshots/dashboard.png)
 
 ![Add Product Screenshot](assets/screenshots/addProduct.png)
-
-Add more screenshots as needed to showcase the application's features.
